@@ -1,0 +1,21 @@
+/* 
+Theme Name:		 Van tai
+Theme URI:		 http://childtheme-generator.com/
+Description:	 Van tai is a child theme of Hello Elementor, created by ChildTheme-Generator.com
+Author:			 Tanle
+Author URI:		 http://childtheme-generator.com/
+Template:		 hello-elementor
+Version:		 1.0.0
+Text Domain:	 van-tai
+*/
+
+
+/*
+    Add your custom styles here
+*/
+.header-sticky.bdt-sticky.elementor-section{
+	position: absolute ;
+    width: 100%;
+	top:1;
+}
+
